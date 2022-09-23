@@ -7,6 +7,6 @@
 
 * Frameworks: Bootstrap, React, Node.js, Express.js
 * Developer Tools: Git, PyCharm, Atom, Google Cloud Platform, VS Code, Visual Studio, IntelliJ   
-* Database: MongoDB, SQL  
+* Database and cloud: MySQL, AWS EC2, Google Cloud, Elasticsearch
 * Libraries: jQuery, pandas, NumPy, Matplotlib 
 * Others: High proficiency of Microsoft Office, Chinese, Adobe Photoshop
