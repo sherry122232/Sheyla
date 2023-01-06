@@ -5,7 +5,8 @@
 :e-mail:  Reach me at: wangshuyang31@gmail.com  
 💻 Languages and Tools: 🛠️
 
-* Frameworks: Bootstrap, React, Node.js, Express.js
+* Frameworks: Bootstrap, React, Node.js, Express.js, Angular, SpringBoot
+* Language: Java, Python, Typescript, Javascript, C++, MATLAB, R, html, css
 * Developer Tools: Git, PyCharm, Atom, Google Cloud Platform, VS Code, Visual Studio, IntelliJ   
 * Database and cloud: MySQL, AWS EC2, Google Cloud, Elasticsearch
 * Libraries: jQuery, pandas, NumPy, Matplotlib 
